@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valenTineDay/static/css/main.92910540.css",
+    "main.js": "/valenTineDay/static/js/main.b0bd513f.js",
+    "index.html": "/valenTineDay/index.html",
+    "main.92910540.css.map": "/valenTineDay/static/css/main.92910540.css.map",
+    "main.b0bd513f.js.map": "/valenTineDay/static/js/main.b0bd513f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92910540.css",
+    "static/js/main.b0bd513f.js"
+  ]
+}
